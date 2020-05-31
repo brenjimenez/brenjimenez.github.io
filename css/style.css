@@ -1,0 +1,303 @@
+@charset "utf-8";
+
+*{
+	background: #042630;
+}
+
+.Header{
+	background: #D0D6D6;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	position: fixed;
+	 z-index: 20;
+}
+
+.Pachiwela{
+	background:  #D0D6D6;
+}
+
+a{
+	color: #041421;
+	margin-right: 30px;
+	background: #D0D6D6;
+	text-align: left;
+	float: left;
+}
+
+@font-face {
+  font-family: Longhaul;
+  src: url(font/Longhaul.ttf);
+  font-style: normal;
+  font-weight: 100;
+}
+
+.MASK{
+	margin-left: 30px;
+	float: left;
+	font-family: Longhaul;
+	font-size: 25px;
+	background: #D0D6D6;
+}
+
+.Letras{
+	height: 400px;
+	background: #042630;
+	text-align: center;
+    display: inline-table;
+	margin-top: 200px;
+}
+
+.Letras p{
+  color: #D0D6D6;
+  font-size: 60px;
+  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  font-weight: bold;
+  display: table-cell;
+  vertical-align: top;
+}
+
+.m1{
+	margin-top: 40px;
+	background: #4C7273;
+}
+
+
+
+.m1 p{
+	margin-top: 40px;
+	color: black;
+	background: #4C7273;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 30px;
+}
+
+.precios{
+	color: black;
+	background: #4C7273;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 50px;
+}
+
+.imagen{
+	background-color: #4C7273;
+	height: 360px;
+ }
+
+.space{
+	height: 30px;
+	background: #4C7273;
+}
+
+.Normales{
+	background-color: #4C7273;
+	height: 130px;
+}
+
+.Normales p{
+	color: black;
+	background: #4C7273;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 30px;
+	text-align: center;
+}
+
+.center{
+	margin-top: 30px;
+	margin-left: 55px;
+	border-radius: 50%;
+}
+
+.imgMD{
+	background-color: #86B9B0;
+	height: 360px;
+}
+
+.spaceMD{
+	height: 30px;
+	background: #86B9B0;
+}
+
+.Deportivas{
+	background-color: #86B9B0;
+	height: 130px;
+}
+
+.Deportivas p{
+	color: black;
+	background: #86B9B0;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 30px;
+	text-align: center;
+}
+
+.preciosMD{
+	color: black;
+	background: #86B9B0;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 50px;
+}
+
+.imgED{
+	background-color: #041421;
+	height: 360px;
+}
+
+.centerED{
+	margin-top: 30px;
+	border-radius: 5%;
+}
+
+.spaceED{
+	height: 30px;
+	background: #041421;
+}
+
+.Equipos{
+	color: #D0D6D6;
+	background: #041421;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 30px;
+	text-align: center;
+}
+
+.Equipos p{
+	color: #D0D6D6;
+	background: #041421;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 30px;
+	text-align: center;
+}
+
+.preciosED{
+	color: #D0D6D6;
+	background: #041421;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 50px;
+}
+
+.spaceMC{
+	height: 60px;
+}
+
+.imgMC{
+	height: 360px;
+}
+
+.centerMC{
+	margin-left: 100px;
+}
+
+.info{
+	background-color: #86B9B0;
+	padding-top: 20px;
+	height: 250px;
+}
+
+.info p{
+	color: black;
+	background: #86B9B0;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 40px;
+	margin-left: 20px;
+}
+
+.nombre{
+	color: black;
+	background: #86B9B0;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.preciosMC{
+	color: black;
+	background: #86B9B0;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 60px;
+}
+
+.spaceinfo{
+	height: 50px;
+	background: #86B9B0;
+}
+
+.spaceinfo1{
+	height: 50px;
+	background: #4C7273;
+}
+
+.spacemaq{
+	height: 30px;
+}
+.info1{
+	background-color: #4C7273;
+	padding-top: 20px;
+	height: 250px;
+}
+
+.info1 p{
+	color: black;
+	background: #4C7273;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 40px;
+	margin-left: 20px;
+}
+
+.nombre1{
+	color: black;
+	background: #4C7273;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.preciosMC1{
+	color: black;
+	background: #4C7273;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 60px;
+}
+
+.fa-whatsapp{
+	color: #041421;
+    font-size:40px;
+	background: #D0D6D6;
+	margin-left: 140px;
+}
+
+.fa-facebook-f{
+	color: #041421;
+    font-size:40px;
+	background: #D0D6D6;
+}
+
+.Footer{
+    background: #D0D6D6;
+}
+
+.Footer p{
+	background: #D0D6D6;
+	margin-top: 20px;
+	font-size: 20px;
+}
+
+.rs{
+	background: #D0D6D6;
+	margin-top: 20px;
+	font-size: 20px;
+    margin-left: 70px;
+}
+
+.fa-twitter{
+	color: #041421;
+    font-size: 40px;
+	background: #D0D6D6;
+}
+
+.fa-instagram{
+	color: #041421;
+    font-size: 40px;
+	background: #D0D6D6;
+}
